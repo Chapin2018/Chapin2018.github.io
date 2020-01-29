@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Chapin`s Blog</title>
-    <link>https://chapin2018.github.io/chapin.github.io/tags/</link>
-    <description>Recent content in Tags on Chapin`s Blog</description>
+    <title>Tags on Even - A super concise theme for Hugo</title>
+    <link>https://Chapin2018.github.io/tags/</link>
+    <description>Recent content in Tags on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>en</language>
+    <copyright>Chapin</copyright>
+    <lastBuildDate>Wed, 29 Jan 2020 17:35:44 +0800</lastBuildDate>
     
-	<atom:link href="https://chapin2018.github.io/chapin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Chapin2018.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>learning</title>
+      <link>https://Chapin2018.github.io/tags/learning/</link>
+      <pubDate>Wed, 29 Jan 2020 17:35:44 +0800</pubDate>
+      
+      <guid>https://Chapin2018.github.io/tags/learning/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

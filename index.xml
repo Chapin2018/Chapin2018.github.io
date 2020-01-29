@@ -1,29 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chapin`s Blog on Chapin`s Blog</title>
-    <link>https://chapin2018.github.io/chapin.github.io/</link>
-    <description>Recent content in Chapin`s Blog on Chapin`s Blog</description>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>https://Chapin2018.github.io/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Wed, 29 Jan 2020 17:06:50 +0800</lastBuildDate>
-    <atom:link href="/chapin.github.io/" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Chapin</copyright>
+    <lastBuildDate>Wed, 29 Jan 2020 17:35:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://Chapin2018.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Posts</title>
-      <link>https://chapin2018.github.io/chapin.github.io/post/</link>
-      <pubDate>Wed, 29 Jan 2020 17:06:50 +0800</pubDate>
+      <title>UseHugo</title>
+      <link>https://Chapin2018.github.io/post/usehugo/</link>
+      <pubDate>Wed, 29 Jan 2020 17:35:44 +0800</pubDate>
       
-      <guid>https://chapin2018.github.io/chapin.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://chapin2018.github.io/chapin.github.io/about/</link>
-      <pubDate>Tue, 21 Jan 2020 22:40:17 +0800</pubDate>
-      
-      <guid>https://chapin2018.github.io/chapin.github.io/about/</guid>
-      <description></description>
+      <guid>https://Chapin2018.github.io/post/usehugo/</guid>
+      <description>Hello,hugo </description>
     </item>
     
   </channel>
